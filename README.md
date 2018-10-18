@@ -1,0 +1,1 @@
+# Case-Study--Effective-Use-of-Conditional-Formatting-in-Spreadsheets
